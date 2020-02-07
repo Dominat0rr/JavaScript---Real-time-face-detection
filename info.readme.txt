@@ -1,5 +1,0 @@
-Tutorial: Build Real Time Face Detection With JavaScript
-Video url: https://www.youtube.com/watch?v=CVClHLwv-4I
-git-hub url: https://github.com/WebDevSimplified/Face-Detection-JavaScript
-project name: JavaScript - Real time face detection
-project location: D:\Coding\JavaScript_dev\JavaScript - Real time face detection
